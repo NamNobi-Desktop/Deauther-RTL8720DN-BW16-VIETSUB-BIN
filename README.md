@@ -4,9 +4,13 @@
 # Deauther-RTL8720DN-BW16-VIETSUB-BIN
 Deauther -RTL8720DN- BW16- Vietsub- BIN "Đây là bản Là bản nâng cấp và Việt hoá hoàn toàn, dễ sử dụng và thao tác cũng như quản lý các mục tiêu trên giao diện giúp người dùng dễ tiếp cận hơn với cách thức Deauth". Đây là phiên bản tấn công 2.4 và 5Ghz song song và đa mục tiêu.Và được nạp bằng FILE.BIN !
 
-**Video-Demo**
+**Ảnh-Demo**
 
-**Video Hướng Dẫn Cách Nạp :**
+![481585806_600579412854984_4220957190305653992_n](https://github.com/user-attachments/assets/9906855c-5bc7-47ed-8443-8a55a841d7fc)
+![481781815_1138766470854354_7827039816587535270_n](https://github.com/user-attachments/assets/78a8596a-57a1-493e-88f0-d8d129382368)
+![481690109_2025179794655370_7167630380595976299_n](https://github.com/user-attachments/assets/b0e5d662-b8ca-42bc-b39f-3eef681efac2)
+
+# Video Hướng Dẫn Cách Nạp:
 **https://youtu.be/q96H-Iu4dWs?si=Fe6rRgJudwRsKzAR**
 
 # Sản Phẩm mà bạn có thể quan tâm !
