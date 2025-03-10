@@ -1,6 +1,9 @@
 # Thông Tin Wifi
-**SSID** : RTL8720DN-BW16
-**PASS** : 0123456789
+**SSID** : ``RTL8720DN-BW16``<br/><br/>
+**PASS** : ``0123456789``<br/><br/><br/>
+
+
+
 ![481812006_1000204278688898_387039840885086736_n](https://github.com/user-attachments/assets/ffce0f74-6edd-424d-803b-8c764526fd2c)
 
 # Deauther-RTL8720DN-BW16-VIETSUB-BIN
