@@ -1,5 +1,5 @@
-#SSID:
-#PASS:
+# SSID:
+# PASS:
 
 ![481812006_1000204278688898_387039840885086736_n](https://github.com/user-attachments/assets/ffce0f74-6edd-424d-803b-8c764526fd2c)
 
